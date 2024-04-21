@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Alex6683-bot
-- 👀 I’m interested in Software Design
-- 🌱 I’m currently learning C# as a beginner
-- I'm very bad at programming
+Hi there, I'm Alex...
+**--Interests:** Making Apps, Game Development, Messing with graphic langauges etc.
+**--Epxeriences:** OpenGl**(2-3 months)**, WPF**(less than a month)**
+**--Langauges:** C#**(9-10 months)**, Python**(3-4 months)**
+
 
 <!---
 Alex6683-bot/Alex6683-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
