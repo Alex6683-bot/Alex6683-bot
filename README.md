@@ -3,9 +3,9 @@ Hi there, I'm Alex...
 
 **--Interests:** Making Apps, Game Development, Messing with graphic langauges etc.
 
-**--Epxeriences:** OpenGl**(2-3 months)**, WPF**(less than a month)**
+**--Epxeriences:** OpenGl **(2-3 months)**, WPF **(less than a month)**
 
-**--Langauges:** C#**(9-10 months)**, Python**(3-4 months)**
+**--Langauges:** C# **(9-10 months)**, Python **(3-4 months)**
 
 
 <!---
