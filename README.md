@@ -10,9 +10,9 @@
 ***你好***              👋
 
 
-My name is Alex, and I'm a programmr (sadly)..![c#](https://github.com/user-attachments/assets/1191c33b-b6b2-41d8-a33a-93b471cdbc4c)
+My name is Alex, and I'm a programmr (sadly)..
 
 
 
 # Skills
-![Uploading c#.svg…]()
+![c#](https://github.com/user-attachments/assets/1191c33b-b6b2-41d8-a33a-93b471cdbc4c)
