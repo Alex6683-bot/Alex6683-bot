@@ -18,6 +18,6 @@ My name is Alex, and I'm a programmer (sadly)..
 This is my readme file. My skills are:
 
 <p align="left">
-  <img src="Icons/c#.svg" alt="c#" width="50" height="50"/>
-  <img src="Icons/python.svg" alt="Python" width="50" height="50"/>
+  <img src="Icons/c#.svg" alt="c#" width="150" height="150"/>
+  <img src="Icons/python.svg" alt="Python" width="150" height="150"/>
 </p>
