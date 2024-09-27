@@ -10,4 +10,6 @@
 ***你好***              👋
 
 
-Hi
+
+
+My name is Alex, and I'm a programmr (sadly)..
