@@ -15,7 +15,7 @@ My name is Alex, and I'm a programmer (sadly)..
 
 # Skills
 
-This is my readme file. My skills are:
+My skills are:
 
 <p align="left">
   <img src="Icons/c#.svg" alt="c#" width="150" height="150"/>
