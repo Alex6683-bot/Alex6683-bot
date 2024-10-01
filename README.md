@@ -10,7 +10,7 @@
 ***你好***              👋  
 
 
-My name is Alex, and I'm a programmer (sadly)..
+My name is Alex, and I'm a programmer
 
 
 # Skills
