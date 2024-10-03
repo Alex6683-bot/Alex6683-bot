@@ -21,3 +21,8 @@ My skills are:
   <img src="Icons/cs.svg" alt="c#" width="150" height="150"/>
   <img src="Icons/python.svg" alt="Python" width="150" height="150"/>
 </p>
+
+#Preferences
+<p align = "left">
+  <img src="Icons/OS.svg" width="200" height="200"/>
+</p>
