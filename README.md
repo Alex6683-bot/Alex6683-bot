@@ -22,7 +22,7 @@ My skills are:
   <img src="Icons/python.svg" alt="Python" width="150" height="150"/>
 </p>
 
-#Preferences
+# Preferences
 <p align = "left">
-  <img src="Icons/OS.svg" width="200" height="200"/>
+  <img src="Icons/OS.svg" width="500" height="500"/>
 </p>
