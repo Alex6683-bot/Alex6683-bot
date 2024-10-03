@@ -24,5 +24,5 @@ My skills are:
 
 # Preferences
 <p align = "left">
-  <img src="Icons/OS.svg" width="500" height="500"/>
+  <img src="Icons/OS.svg" width="350" height="350"/>
 </p>
