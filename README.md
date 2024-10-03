@@ -15,11 +15,9 @@ My name is Alex, and I like makin stuffs.
 
 # Skills
 
-My skills are:
-
 <p align="left">
-  <img src="Icons/cs.svg" alt="c#" width="150" height="150"/>
-  <img src="Icons/python.svg" alt="Python" width="150" height="150"/>
+  <img src="Icons/cs.svg" alt="c#" width="200" height="200"/>
+  <img src="Icons/python.svg" alt="Python" width="200" height="200"/>
 </p>
 
 # Preferences
